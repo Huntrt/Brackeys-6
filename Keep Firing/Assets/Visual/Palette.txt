@@ -1,0 +1,9 @@
+Background: darker 16161A - 2B2D42
+
+Player: EDF2F4
+
+Player Attack: 8D99AE 
+
+Enemy: D90429 
+
+Enemy Attack: EF233C
